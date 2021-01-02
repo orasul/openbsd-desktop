@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=XTerm
+GenericName=Terminal
+Comment=Use the command line
+TryExec=xterm
+Exec=xterm
+Icon=xterminal
+Type=Application

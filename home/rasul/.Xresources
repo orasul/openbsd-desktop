@@ -1,0 +1,7 @@
+xterm*font:    *-fixed-*-*-*-18-*
+xterm*background: black
+xterm*foreground: lightgreen
+xterm*geometry: 140*40
+! Use a truetype font and size.
+xterm*faceName: Monospace
+xterm*faceSize: 14

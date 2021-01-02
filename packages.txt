@@ -1,0 +1,17 @@
+vim
+xboard
+tint2
+vlc
+python
+lynx
+lxterminal
+openbox
+mupdf
+feh
+firefox
+ffmpeg
+conky
+chromium
+chessx
+gnuchess
+bash
